@@ -1,5 +1,6 @@
 # toolz
 a bunch of vital unity toolz
+
 SelectMissingMonos.cs adds 2 things:
 1. a tools/find missing scripts in assets that goes through prefabs and lists the busted ones, click on the console error to ping the prefab
 2. highlighter: auto highlights busted  gameobject directly in your hierarchy view

@@ -1,5 +1,5 @@
 # MC Toolz
-a bunch of vital unity toolz
+a bunch of vital unity toolz that are boxed in #if so you don't have to bother with Editor folder
 
 DealWithMissingMonos.cs adds 2 things:
 1. a tools/find missing scripts in assets that goes through prefabs and lists the busted ones, click on the console error to ping the prefab
